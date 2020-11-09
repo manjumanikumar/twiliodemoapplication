@@ -1,4 +1,4 @@
-package com.aplha.elephant.twilio.demo;
+package com.aplha.elephant.twilio.demo.sms;
 
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

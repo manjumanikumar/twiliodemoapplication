@@ -1,4 +1,4 @@
-package com.aplha.elephant.twilio.demo;
+package com.aplha.elephant.twilio.demo.sms;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
